@@ -1,6 +1,6 @@
 # thesis
 Compressed representations for web and social networks
-Code for paper
+Code for paper: The implementation is from 2014 and not been updated since then.
 "Compressed representations for web and social networks" (kais 2014):
 
 There are 2 different applications based on the same idea. One uses dense subgraphs in addition to virtual nodes and the other
